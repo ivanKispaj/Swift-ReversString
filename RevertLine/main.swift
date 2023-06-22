@@ -57,6 +57,6 @@ extension String
 
 
 let str = "Через командную строку: создайте локальный проект с git-репозиторием."
-print(str.reverеtStringWithPreservingPunctuationAndUppercasedPosition())
+print(str.reverеtStringWithPreservingdUppercasedPosition())
 
 
